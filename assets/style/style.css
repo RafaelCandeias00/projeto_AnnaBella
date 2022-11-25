@@ -19,12 +19,12 @@ a{
     text-align: left;
 }
 
-.sobre th{
+.descricao th{
     background-color: #fdfbed;
     padding: 10px;
 }
 
-.titulo-home{
+.titulo{
     font-family: Arial, Helvetica, sans-serif;
     color: #a8a493;
     text-align: left;
