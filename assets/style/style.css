@@ -1,0 +1,45 @@
+body{
+    background-image: url("../images/fundo.png");
+}
+
+#container{
+    width: 900px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navegacao th{
+    background-color: #d4d3be;
+    padding: 15px;
+    text-align: left;
+}
+
+.sobre th{
+    background-color: #fdfbed;
+    padding: 10px;
+}
+
+.titulo-home{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #a8a493;
+    text-align: left;
+}
+
+p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.rodape th{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 15px;
+}
